@@ -22,7 +22,7 @@ Welcome to the User CRUD App repository! This app allows you to perform CRUD (Cr
 
 ### Backend Setup Without Docker
 
-The server will run on port 8080, and you can access the Swagger documentation at http://localhost:3000/api-docs/
+The server will run on port 3000, and you can access the Swagger documentation at http://localhost:3000/api-docs/
 
 1. Make sure you have Node.js and PostgreSQL installed on your system.
 2. Clone this repository.
@@ -68,11 +68,10 @@ The frontend will be accessible at http://localhost:3001.
 
 ## Preview Images
 
-<img src="contact-app-previews/preview-0.png" width="800" height="465">
-<img src="contact-app-previews/preview-1.png" width="800" height="465">
-<img src="contact-app-previews/preview-2.png" width="800" height="465">
-<img src="contact-app-previews/preview-3.png" width="800" height="465">
-<img src="contact-app-previews/preview-4.png" width="800" height="465">
+<img src="preview-images/preview-0.png" width="800" height="465">
+<img src="preview-images/preview-1.png" width="800" height="465">
+<img src="preview-images/preview-2.png" width="800" height="465">
+<img src="preview-images/preview-3.png" width="800" height="465">
 
 ## Usage
 You can now use the User CRUD App to manage user records, perform CRUD operations, and utilize server-side pagination and filtering. Feel free to explore the Swagger documentation for available endpoints and try them out.
