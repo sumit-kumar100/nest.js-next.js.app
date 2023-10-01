@@ -20,22 +20,23 @@ Welcome to the User CRUD App repository! This app allows you to perform CRUD (Cr
 
 ## Setup
 
+- Make sure you have Node.js and PostgreSQL installed on your system.
+- Clone this repository.
+   ```bash
+   git clone https://github.com/sumit-singh1196/nest.js-next.js-app.git
+
 ### Backend Setup Without Docker
 
 The server will run on port 3000, and you can access the Swagger documentation at http://localhost:3000/api-docs/
 
-1. Make sure you have Node.js and PostgreSQL installed on your system.
-2. Clone this repository.
-   ```bash
-   git clone https://github.com/sumit-singh1196/nest.js-next.js-app.git
-3. Change to the backend directory.
+1. Change to the backend directory.
    ```bash
    cd nest-backend
-4. Install the required Node.js packages.
+2. Install the required Node.js packages.
    ```bash
    npm install
-5. Create a fresh database for the app. You can update the database configuration in the `.env` file with your PostgreSQL password and database name.
-6. Start the server.
+3. Create a fresh database for the app. You can update the database configuration in the `.env` file with your PostgreSQL password and database name.
+4. Start the server.
    ```bash
    npm run start:dev
 
