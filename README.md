@@ -23,7 +23,7 @@ Welcome to the User CRUD App repository! This app allows you to perform CRUD (Cr
 - Make sure you have Node.js and PostgreSQL installed on your system.
 - Clone this repository.
    ```bash
-   git clone https://github.com/sumit-singh1196/nest.js-next.js-app.git
+   git clone https://github.com/sumit-singh1196/nest.js-next.js.app.git
 
 ### Backend Setup Without Docker
 
@@ -51,7 +51,7 @@ If you prefer using Docker, you can use the following steps to set up the backen
 
 ## Frontend Setup
 
-The frontend will be accessible at http://localhost:3001.
+The frontend will be accessible at http://localhost:3001
 
 1. Change to the frontend directory.
    ```bash
